@@ -1,0 +1,115 @@
+ 
+Interface name : WiFi 
+There are 9 networks currently visible. 
+
+SSID 1 : wvoice
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c0:25:5c:c7:5d:26
+         Signal             : 53%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+    BSSID 2                 : 50:06:04:ba:59:b6
+         Signal             : 53%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+
+SSID 2 : Guest
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 50:06:04:ba:59:b8
+         Signal             : 57%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+
+SSID 3 : Koo
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 54:b8:0a:06:a8:74
+         Signal             : 62%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 4 : VMO
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 50:06:04:ba:59:b0
+         Signal             : 53%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+
+SSID 5 : Healthcare
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 50:06:04:ba:5e:07
+         Signal             : 33%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+    BSSID 2                 : c0:25:5c:c7:5d:27
+         Signal             : 57%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+
+SSID 6 : Optus_7E067A
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 5c:b1:3e:7e:06:7c
+         Signal             : 53%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : TP-LINK_3FAEBA
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 30:b4:9e:3f:ae:ba
+         Signal             : 87%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : Iƒ?Tm Under Your Bed
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 5c:b1:3e:7e:06:7d
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 9 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c0:25:5c:c7:5d:25
+         Signal             : 57%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 12 18 36 48 54
+

@@ -43,10 +43,10 @@ temp_arr2 = []
 distance1 = []
 distance2 = []
 
-#
+# #
 for i in range(len(result)):
     for j in range(len(result2)):
-        if result[i][1] == result2[j][1] and abs(result2[j][4]-result[i][4]) < 10:
+        if result[i][1] == result2[j][1] and result[i][2] == result2[j][2] and result[i][3] == result2[j][3] and abs(result2[j][4]-result[i][4]) < 10:
             distance1.append(result[i][4])
             distance2.append(result2[j][4])
             temp_arr1.append(result[i])
@@ -57,18 +57,18 @@ print(NDD(distance1, distance2))
 print(result)
 print(result2)
 
-#
+# # #
 # for i in range(len(result)):
 #     for j in range(len(result2)):
-#         if result[i][0] == result2[j][0]:
+#         if result[i][1] == result2[j][1] and result[i][2] == result2[j][2] and result[i][3] == result2[j][3]:
 #             print(abs(result2[j][4]-result[i][4]))
 #             print(result[i])
 #             print(result2[j])
-
-
-
-
-
+#
+#
+#
+#
+#
 
 
 

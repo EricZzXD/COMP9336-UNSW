@@ -7,39 +7,68 @@ import math
 # from API.py import *
 from API import *
 
+
 # netshData
 
 # Pre-Requirement
 path = "netshData"
 listdir = os.listdir("netshData/")
-filename = listdir[0]
+
 
 # Join the Path - Get Full Pathway
-pathJoin = os.path.join(path, filename)
-f = open(pathJoin, 'r')
-content = f.read()
+filename = listdir[0]
+pathJoin1 = os.path.join(path, filename)
+f = open(pathJoin1, 'r')
+read_file1 = f.read()
+result = Pre_Analysis(read_file1)
 
-overall_dic = []
-Splited_SSID = split_ssids(content)
 
-for i in range(len(Splited_SSID)):
-    SSID_Info = get_SSID_Info(Splited_SSID[i])
-    overall_dic.append(SSID_Info)
+# Join the Path - Get Full Pathway
+filename2 = listdir[1]
+pathJoin2 = os.path.join(path, filename2)
+f = open(pathJoin2, 'r')
+read_file2 = f.read()
+result2 = Pre_Analysis(read_file2)
 
-table_Array = []
-for i in range(len(overall_dic)):
-    ssid = overall_dic[i]["SSID"]
-    for j in range(len(overall_dic[i]["SSID_Info"]["BSSID_Info"])):
-        BSSID = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][0]
-        Signal = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][1]
-        Channel = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][3]
-        ssid_frequency = get_frequency(Channel)
-        ssid_SignalStrength = get_SignalStrength(float(Signal.replace("%", "")))
-        est_Distance = get_estDistance(ssid_frequency, Channel, ssid_SignalStrength)
-        temp = [ssid, BSSID, ssid_frequency, Channel, est_Distance]
-        table_Array.append(temp)
+#
+# # Print Table
+# Table_head = ["SSID", "BSSID", "Frequency", "Channel", "Est. Distance (m)"]
+# print(tabulate(result, headers=Table_head, tablefmt='orgtbl'))
+#
+# print(tabulate(result2, headers=Table_head, tablefmt='orgtbl'))
 
-# Print Table
-Table_head = ["SSID", "BSSID", "Frequency", "Channel", "Est. Distance (m)"]
-print(tabulate(table_Array, headers=Table_head, tablefmt='orgtbl'))
+temp_arr1 = []
+temp_arr2 = []
+
+distance1 = []
+distance2 = []
+
+#
+for i in range(len(result)):
+    for j in range(len(result2)):
+        if result[i][1] == result2[j][1] and abs(result2[j][4]-result[i][4]) < 10:
+            distance1.append(result[i][4])
+            distance2.append(result2[j][4])
+            temp_arr1.append(result[i])
+            temp_arr2.append(result2[j])
+
+print(NDD(distance1, distance2))
+
+print(result)
+print(result2)
+
+#
+# for i in range(len(result)):
+#     for j in range(len(result2)):
+#         if result[i][0] == result2[j][0]:
+#             print(abs(result2[j][4]-result[i][4]))
+#             print(result[i])
+#             print(result2[j])
+
+
+
+
+
+
+
 

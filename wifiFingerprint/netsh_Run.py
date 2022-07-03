@@ -4,7 +4,7 @@ import sys
 import os
 
 # You may want to to run code: (Can change name here)
-filename = "data"
+filename = "data0"
 
 # Path name and join (Dont modify)
 path = "netshData"

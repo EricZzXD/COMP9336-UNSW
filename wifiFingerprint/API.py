@@ -80,6 +80,7 @@ def get_SSID_Info(ssid_array_splited):
 
     return dic
 
+
 # Get Distance
 def get_estDistance(Frequency, Channel, SignalStrength):
     # Info Link: https://en.wikipedia.org/wiki/List_of_WLAN_channels
@@ -106,6 +107,7 @@ def get_estDistance(Frequency, Channel, SignalStrength):
     result = 10 ** ((27.55 - (20 * math.log10(Channel_Freq)) + SignalStrength) / 20)
     return result
 
+
 # Get Signal Strength
 def get_SignalStrength(rssi):
     if (float(rssi<=0)):
@@ -116,6 +118,7 @@ def get_SignalStrength(rssi):
         dbm = float(rssi)/2-100
     return dbm
 
+
 # Get Frequency
 def get_frequency(Channel):
     if int(Channel) <= 14:
@@ -124,3 +127,46 @@ def get_frequency(Channel):
         ssid_frequency = "5 GHz"
 
     return ssid_frequency
+
+
+def Pre_Analysis(content):
+    overall_dic = []
+    Splited_SSID = split_ssids(content)
+
+    for i in range(len(Splited_SSID)):
+        SSID_Info = get_SSID_Info(Splited_SSID[i])
+        overall_dic.append(SSID_Info)
+
+    table_Array = []
+    for i in range(len(overall_dic)):
+        ssid = overall_dic[i]["SSID"]
+        for j in range(len(overall_dic[i]["SSID_Info"]["BSSID_Info"])):
+            BSSID = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][0]
+            Signal = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][1]
+            Channel = overall_dic[i]["SSID_Info"]["BSSID_Info"][j][3]
+            ssid_frequency = get_frequency(Channel)
+            ssid_SignalStrength = get_SignalStrength(float(Signal.replace("%", "")))
+            est_Distance = get_estDistance(ssid_frequency, Channel, ssid_SignalStrength)
+            temp = [ssid, BSSID, ssid_frequency, Channel, est_Distance]
+            table_Array.append(temp)
+
+    return table_Array
+
+
+# https://hlab.stanford.edu/brian/euclidean_distance_in.html#:~:text='n'%2DDimensional%20Euclidean%20Distance&text=Euclidean%20distance%20is%20a%20measure,two%20points%20in%20Euclidean%20space.&text=In%20an%20example%20where%20there,is%20only%201%20Dimensional%20space.
+# Multi N Dimensional Distance
+def NDD(arr1, arr2):
+
+    # If the Array size are not match, then return error
+    if len(arr1) != len(arr2):
+        return "ERROR"
+
+    # Calculate the Sum
+    tempsum = 0
+    for i in range(len(arr1)):
+        tempsum = tempsum + (arr1[i]-arr2[i])**2
+
+    # Calculate the Result
+    distance = math.sqrt(tempsum)
+
+    return distance

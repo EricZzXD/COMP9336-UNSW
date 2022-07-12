@@ -4,10 +4,10 @@ import sys
 import os
 
 # You may want to to run code: (Can change name here)
-filename = "data0"
+filename = "TestE"
 
 # Path name and join (Dont modify)
-path = "netshData"
+path = "TestData"
 fileType = ".txt"
 fileall = filename + fileType
 pathJoin = os.path.join(path, fileall)

@@ -1,0 +1,864 @@
+ 
+Interface name : Wi-Fi 
+There are 42 networks currently visible. 
+
+SSID 1 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 94:b4:0f:59:e1:32
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 94:b4:0f:59:ce:32
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 3                 : 24:de:c6:ca:15:9f
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 4                 : 24:de:c6:ca:15:9d
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 5                 : 94:b4:0f:59:cd:a2
+         Signal             : 70%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 6                 : 94:b4:0f:59:cd:22
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 7                 : 94:b4:0f:59:cd:e2
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 8                 : 94:b4:0f:59:cd:62
+         Signal             : 85%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 9                 : 7a:3a:1e:1f:e1:58
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 1 
+         Basic rates (Mbps) : 11
+         Other rates (Mbps) : 12 18 24 36 48 54
+    BSSID 10                 : 24:de:c6:ca:16:0d
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 11                 : 24:de:c6:ca:16:0c
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 12                 : 24:de:c6:ca:16:0b
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 13                 : 24:de:c6:ca:16:08
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) :
+    BSSID 14                 : de:cb:ac:33:ec:8a
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 52 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 15                 : 94:b4:0f:59:cd:32
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 16                 : 94:b4:0f:59:cd:72
+         Signal             : 50%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 17                 : 24:de:c6:ca:06:ef
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 18                 : 24:de:c6:ca:06:ed
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 19                 : 24:de:c6:ca:06:ec
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 20                 : 24:de:c6:ca:06:eb
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 21                 : 24:de:c6:ca:06:e8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) :
+    BSSID 22                 : a0:41:47:6a:ed:2a
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 23                 : 94:b4:0f:59:cd:d2
+         Signal             : 50%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 24                 : 94:b4:0f:59:dd:92
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 25                 : 24:de:c6:ca:15:9c
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 26                 : 24:de:c6:ca:15:9b
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 27                 : 24:de:c6:ca:15:98
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) :
+    BSSID 28                 : 94:b4:0f:59:c8:22
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 29                 : 94:b4:0f:59:dd:02
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 30                 : 94:b4:0f:59:d8:42
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 31                 : 94:b4:0f:59:dd:82
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+    BSSID 32                 : d6:35:1d:bc:3a:02
+         Signal             : 80%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 33                 : 24:de:c6:ca:14:df
+         Signal             : 90%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 34                 : 24:de:c6:ca:14:dd
+         Signal             : 85%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 35                 : 24:de:c6:ca:14:dc
+         Signal             : 85%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 36                 : 24:de:c6:ca:14:db
+         Signal             : 75%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 37                 : 24:de:c6:ca:14:d8
+         Signal             : 80%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) :
+    BSSID 38                 : 24:de:c6:ca:16:0f
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 39                 : 24:de:c6:ca:10:cf
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 52 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 40                 : 24:de:c6:ca:10:cd
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 52 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 41                 : 94:b4:0f:59:cd:52
+         Signal             : 95%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 42                 : 56:3a:0e:1f:e1:58
+         Signal             : 55%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 43                 : 94:b4:0f:59:c6:f2
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 2 : _WestfieldFreeWiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 94:b4:0f:59:e1:31
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 2                 : 94:b4:0f:59:ce:31
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 3                 : 94:b4:0f:59:cd:f1
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 4                 : 94:b4:0f:59:cd:31
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 5                 : 94:b4:0f:59:e6:31
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 48 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 6                 : 94:b4:0f:59:cd:d1
+         Signal             : 50%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 7                 : 94:b4:0f:59:dd:91
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 8                 : 94:b4:0f:59:c8:21
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 11
+         Other rates (Mbps) : 12 18 24 36 48 54
+    BSSID 9                 : 94:b4:0f:59:dd:81
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 11
+         Other rates (Mbps) : 12 18 24 36 48 54
+    BSSID 10                 : 94:b4:0f:59:cd:51
+         Signal             : 95%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+    BSSID 11                 : 94:b4:0f:59:c6:f1
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+
+SSID 3 : KTMWiFi
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 24:de:c6:ca:15:9e
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 24:de:c6:ca:15:a6
+         Signal             : 90%  
+         Radio type         : 802.11g
+         Channel            : 11 
+         Basic rates (Mbps) :
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 3                 : 24:de:c6:ca:16:0e
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 4                 : 24:de:c6:ca:06:ee
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 48 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 5                 : 24:de:c6:ca:14:de
+         Signal             : 95%  
+         Radio type         : 802.11n
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 6                 : 24:de:c6:ca:10:ce
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 52 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 4 : DAI KA - 5GHz
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 44:ad:b1:d8:20:cc
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 5 : DIRECT-64-HP M15 LaserJet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 16:cb:19:97:d0:64
+         Signal             : 55%  
+         Radio type         : 802.11n
+         Channel            : 13 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 6 : 1001OPTICAL
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 10:0c:6b:f8:fb:7d
+         Signal             : 75%  
+         Radio type         : 802.11n
+         Channel            : 13 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : Telstra0F33
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 10:da:43:f0:4a:72
+         Signal             : 75%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : Telstra0BCD
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:84:a5:75
+         Signal             : 85%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 9 : Guest-CB
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : d4:dc:09:d0:ac:c3
+         Signal             : 70%  
+         Radio type         : 802.11ax
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 2                 : d4:dc:09:d0:b0:13
+         Signal             : 55%  
+         Radio type         : 802.11ax
+         Channel            : 140 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 3                 : d4:dc:09:d0:af:f3
+         Signal             : 90%  
+         Radio type         : 802.11ax
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 10 : Optus_B818_ED23
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : a0:41:47:6a:ed:23
+         Signal             : 70%  
+         Radio type         : 802.11n
+         Channel            : 10 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 2                 : a0:41:47:6a:ed:28
+         Signal             : 20%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 11 : Telstra15CE
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 6c:cd:d6:ca:f7:5d
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 12 : TCOStaff
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 74:67:f7:2c:bc:63
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 13 : CTNStoreDevice
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 74:67:f7:2c:bc:60
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 2                 : 74:67:f7:2e:f0:c0
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 14 : SKIN CULTURE
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 6c:cd:d6:cc:2f:9d
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 15 : Repair Xperts
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 00:1d:aa:9c:83:08
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 16 : SSG_SEC
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 34:0a:33:7c:df:fe
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Channel            : 4 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 17 : Intwebz
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : d4:dc:09:d0:af:f4
+         Signal             : 75%  
+         Radio type         : 802.11ax
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 2                 : d4:dc:09:d0:b0:14
+         Signal             : 55%  
+         Radio type         : 802.11ax
+         Channel            : 140 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 18 : spendless-stores
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f2:23:ff:46:00:da
+         Signal             : 75%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 19 : Telstra08BB
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:85:67:6d
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 20 : Corp
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : d4:dc:09:d0:b0:12
+         Signal             : 45%  
+         Radio type         : 802.11ax
+         Channel            : 140 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 21 : Telstra1A96F0
+    Network type            : Infrastructure
+    Authentication          : WPA3-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : a2:b5:3c:1a:96:f0
+         Signal             : 50%  
+         Radio type         : 802.11ax
+         Channel            : 112 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : a2:b5:3c:1a:96:f8
+         Signal             : 65%  
+         Radio type         : 802.11ax
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 22 : TCODeploy
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 74:67:f7:2e:f0:c2
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 74:67:f7:2c:bc:62
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 23 : TCOServices
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 74:67:f7:2e:f0:c1
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 74:67:f7:2c:bc:61
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 24 : Branch_WIFI
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : e2:cb:ac:33:ec:8a
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 52 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+
+SSID 25 : SKIN CULTURE -5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 6c:cd:d6:cc:2f:9e
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 153 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 26 : Telstra15CE-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 6c:cd:d6:ca:f7:5e
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 27 : ONEConnect
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 70:69:5a:71:f6:ae
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 149 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+
+SSID 28 : SFG_MDM
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 2a:3f:1b:bb:b9:92
+         Signal             : 25%  
+         Radio type         : 802.11ac
+         Channel            : 44 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 29 : APCORP
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 7a:3a:0e:1f:e1:58
+         Signal             : 25%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+
+SSID 30 : OPTUS_D2A4B
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:ea:f8:bf:2a:4b
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : c8:ea:f8:bd:2a:4b
+         Signal             : 100%  
+         Radio type         : 802.11ac
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 31 : Telstra10A3-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:85:d0:f2
+         Signal             : 15%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 32 : Telstra03DC-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:85:53:f2
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 33 : Telstra0BCD-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:84:a5:76
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 34 : DivasBrow
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 00:94:ec:09:b1:ba
+         Signal             : 5%  
+         Radio type         : 802.11ac
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 35 : Optus_223A49
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 44:d4:53:22:3a:4b
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 36 : FOCUS
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 70:f1:1c:0d:93:70
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 37 : TelstraBC3AF8
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : d4:35:1d:bc:3a:f8
+         Signal             : 100%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 6 11 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : d6:35:1d:bc:3a:00
+         Signal             : 70%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 38 : RF
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : d4:dc:09:d0:b0:11
+         Signal             : 55%  
+         Radio type         : 802.11ax
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 39 : Optus-4G-B525-5G-99DA
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 04:8c:9a:b9:99:dc
+         Signal             : 35%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 40 : Telstra08BB-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:c9:eb:85:67:6e
+         Signal             : 45%  
+         Radio type         : 802.11ac
+         Channel            : 60 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 41 : WiFi-D008-5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 28:ee:52:d7:d0:0a
+         Signal             : 35%  
+         Radio type         : 802.11ac
+         Channel            : 149 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 42 : MOEWireless
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 70:69:5a:71:f6:af
+         Signal             : 55%  
+         Radio type         : 802.11n
+         Channel            : 149 
+         Basic rates (Mbps) : 12 24
+         Other rates (Mbps) : 18 36 48 54
+
